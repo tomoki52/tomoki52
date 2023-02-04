@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/tomoki52/tomoki52/main/profile-summary-card-output/solarized_dark/4-productive-time.svg)
+```
+
+    
